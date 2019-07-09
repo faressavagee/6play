@@ -1,6 +1,6 @@
-token=
-owner=ID 
-prefix=1
-game=type 1help
+token=NTk3OTI5NDYyOTczMjAyNDQz.XSRQeA.p8P1Dfg2Td-Uj2zLmDPpUGs6WPw
+owner=597896454182273074
+prefix=6
+game=hogan
 stayinchannel=true
 songinstatus=true
